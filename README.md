@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ashwani341
 - 👀 Interested in programming 💻
 - 🌱 Currently persuing PG-DAC.
+- [My Portfolio](https://ashwani341.github.io/portfolio2)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
